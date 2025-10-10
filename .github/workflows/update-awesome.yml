@@ -21,9 +21,10 @@ jobs:
         uses: simonecorsi/mawesome@v2
         with:
           api-token: ${{ secrets.GITHUB_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
           github-name: ${{ github.repository_owner }}
           github-email: "action@github.com"
+        env:
+          GITHUB_USERNAME: ${{ github.repository_owner }}
           
       - name: Commit and push changes
         run: |
