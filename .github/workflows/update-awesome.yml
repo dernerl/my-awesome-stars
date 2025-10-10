@@ -20,8 +20,7 @@ jobs:
       - name: Generate awesome list
         uses: simonecorsi/mawesome@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          username: ${{ github.repository_owner }}
+          api-token: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Commit and push changes
         run: |
