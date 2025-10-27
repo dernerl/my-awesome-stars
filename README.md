@@ -4,11 +4,11 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [YAML](#yaml)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
 *   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
@@ -19,6 +19,14 @@
 *   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
+
+## C\#
+
+*   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
+*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## YAML
 
@@ -54,13 +62,6 @@
 *   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
 *   [binwiederhier/awesome-selfhosted](https://github.com/binwiederhier/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [PoshCode/PowerShellFAQ](https://github.com/PoshCode/PowerShellFAQ) - A collection of frequently asked questions (and answers)
-
-## C\#
-
-*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## PowerShell
 
