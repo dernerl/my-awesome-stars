@@ -4,14 +4,14 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [miscellaneous](#miscellaneous)
+*   [Swift](#swift)
 *   [C#](#c)
 *   [YAML](#yaml)
-*   [TypeScript](#typescript)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [PowerShell](#powershell)
 *   [JavaScript](#javascript)
-*   [Swift](#swift)
 *   [Rust](#rust)
 *   [C++](#c-1)
 *   [Svelte](#svelte)
@@ -20,20 +20,10 @@
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 
-## C\#
-
-*   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
-*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
-## YAML
-
-*   [usnistgov/macos\_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
-
 ## TypeScript
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+*   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 *   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 *   [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
@@ -41,15 +31,9 @@
 *   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 *   [Azure/microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) -
 
-## Python
-
-*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
-*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
-*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
-
 ## miscellaneous
 
+*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
 *   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
 *   [ztrhgf/DevOps\_Pipelines](https://github.com/ztrhgf/DevOps_Pipelines) -
 *   [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
@@ -63,6 +47,31 @@
 *   [binwiederhier/awesome-selfhosted](https://github.com/binwiederhier/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [PoshCode/PowerShellFAQ](https://github.com/PoshCode/PowerShellFAQ) - A collection of frequently asked questions (and answers)
 
+## Swift
+
+*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
+*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
+*   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
+
+## C\#
+
+*   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
+*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
+
+## YAML
+
+*   [usnistgov/macos\_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
+
+## Python
+
+*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
+*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
+*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
+
 ## PowerShell
 
 *   [workoho/Entra-Tiering-Security-Model](https://github.com/workoho/Entra-Tiering-Security-Model) - Implement a powerful Tiering Security Model in Microsoft Entra for your Cloud Administrator identities using Azure Automation.
@@ -72,8 +81,8 @@
 *   [onpremcloudguy/WHfBChecks](https://github.com/onpremcloudguy/WHfBChecks) - A group of PowerShell scripts to check that your environment is ready for Windows Hello for Business - Hybrid Key Trust
 *   [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
 *   [Semperis/PK-AADAppReg](https://github.com/Semperis/PK-AADAppReg) -
-*   [Deyda/Citrix](https://github.com/Deyda/Citrix) -
-*   [Deyda/Documentation](https://github.com/Deyda/Documentation) -
+*   [Deyda/Citrix](https://github.com/Deyda/Citrix) - Focused on automation, optimization, and troubleshooting for Citrix environments — including Virtual Apps and Desktops, NetScaler, WEM, and FSLogix. Contains scripts and tools used in enterprise-scale deployments and field-tested consulting projects.
+*   [Deyda/Documentation](https://github.com/Deyda/Documentation) - A collection of PowerShell-based documentation tools and templates for IT environments. Includes scripts to automatically generate, export, or format technical documentation in Word, Excel, or PDF formats.
 *   [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI
 *   [htcfreek/SimpleLapsGui](https://github.com/htcfreek/SimpleLapsGui) - A simple and fast GUI for Microsoft LAPS (legacy) and Windows LAPS. With this tool you can query passwords and change the expiration timestamp.
 *   [AzureAD/Deployment-Plans](https://github.com/AzureAD/Deployment-Plans) - Step by step guidance to deploy Azure Active Directory capabilities such as Conditional Access, Multi Factor Authentication, Self Service Password, and more.
@@ -97,11 +106,6 @@
 *   [ftwegner/ChurchTools](https://github.com/ftwegner/ChurchTools) - ChurchTools Python code
 *   [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
 *   [merill/cmd](https://github.com/merill/cmd) - Repository hosting site for cmd.ms
-
-## Swift
-
-*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
-*   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
 
 ## Rust
 
