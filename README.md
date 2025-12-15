@@ -4,14 +4,15 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
+*   [CSS](#css)
+*   [PowerShell](#powershell)
+*   [Swift](#swift)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [C#](#c)
 *   [YAML](#yaml)
-*   [PowerShell](#powershell)
 *   [Rust](#rust)
 *   [C++](#c-1)
 *   [Svelte](#svelte)
@@ -20,30 +21,21 @@
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 
-## Swift
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
-*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
-*   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
-
 ## Python
 
+*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
+*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
+*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 *   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 *   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
 *   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
 *   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 *   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
 
-## JavaScript
-
-*   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-*   [ftwegner/ChurchTools](https://github.com/ftwegner/ChurchTools) - ChurchTools Python code
-*   [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
-*   [merill/cmd](https://github.com/merill/cmd) - Repository hosting site for cmd.ms
-
 ## TypeScript
 
+*   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
+*   [CrowdStrike/foundry-sample-rapid-response](https://github.com/CrowdStrike/foundry-sample-rapid-response) - Rapid Response sample Foundry app
 *   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 *   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
@@ -53,6 +45,54 @@
 *   [yue99520/rovoswitch](https://github.com/yue99520/rovoswitch) - A TypeScript CLI application for managing Rovo authentication profiles and executing authentication commands with encryption support.
 *   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 *   [Azure/microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) -
+
+## CSS
+
+*   [CrowdStrike/foundry-sample-mitre](https://github.com/CrowdStrike/foundry-sample-mitre) - Triage with MITRE Attack sample Foundry app
+
+## PowerShell
+
+*   [CrowdStrike/psfalcon](https://github.com/CrowdStrike/psfalcon) - PowerShell for CrowdStrike's OAuth2 APIs
+*   [workoho/Entra-Tiering-Security-Model](https://github.com/workoho/Entra-Tiering-Security-Model) - Implement a powerful Tiering Security Model in Microsoft Entra for your Cloud Administrator identities using Azure Automation.
+*   [damienvanrobaeys/About\_my\_device](https://github.com/damienvanrobaeys/About_my_device) - About my device: A systray tool for that displays device information and run action like send logs or sync device
+*   [TheTechBeast8/HardeningAudit](https://github.com/TheTechBeast8/HardeningAudit) - Deployment scripts and a simple reports for CIS benchmarks
+*   [ztrhgf/Powershell\_CICD\_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution or deletion will be automated and only thing left will be the code writing :)
+*   [onpremcloudguy/WHfBChecks](https://github.com/onpremcloudguy/WHfBChecks) - A group of PowerShell scripts to check that your environment is ready for Windows Hello for Business - Hybrid Key Trust
+*   [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
+*   [Semperis/PK-AADAppReg](https://github.com/Semperis/PK-AADAppReg) -
+*   [Deyda/Citrix](https://github.com/Deyda/Citrix) - Focused on automation, optimization, and troubleshooting for Citrix environments — including Virtual Apps and Desktops, NetScaler, WEM, and FSLogix. Contains scripts and tools used in enterprise-scale deployments and field-tested consulting projects.
+*   [Deyda/Documentation](https://github.com/Deyda/Documentation) - A collection of PowerShell-based documentation tools and templates for IT environments. Includes scripts to automatically generate, export, or format technical documentation in Word, Excel, or PDF formats.
+*   [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI
+*   [htcfreek/SimpleLapsGui](https://github.com/htcfreek/SimpleLapsGui) - A simple and fast GUI for Microsoft LAPS (legacy) and Windows LAPS. With this tool you can query passwords and change the expiration timestamp.
+*   [AzureAD/Deployment-Plans](https://github.com/AzureAD/Deployment-Plans) - Step by step guidance to deploy Azure Active Directory capabilities such as Conditional Access, Multi Factor Authentication, Self Service Password, and more.
+*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
+*   [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
+*   [zjorz/Public-AD-Scripts](https://github.com/zjorz/Public-AD-Scripts) - AD Scripts
+*   [EUCweb/BIS-F](https://github.com/EUCweb/BIS-F) - Base Image Script Framework (BIS-F)
+*   [OsbornePro/BTPS-SecPack](https://github.com/OsbornePro/BTPS-SecPack) - This repository contains a collection of PowerShell tools that can be utilized to protect and defend an environment based on the recommendations of multiple cyber security researchers at Microsoft. These tools were created with a small to medium size enterprise environment in mind as smaller organizations do not always have the type of funding available to overly spend on security. The goal of this project is to help add value to an smaller organizations security by creating more visibility for the average IT Administrator. Organizations with 1,000’s of devices may find that this entire suite does not apply to them.
+*   [dotps1/PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
+*   [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
+*   [PSKeePass/PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - PowerShell module for KeePass
+*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
+*   [lazywinadmin/CoinMarketCap](https://github.com/lazywinadmin/CoinMarketCap) - CoinMarketCap is an MIT licensed PowerShell module providing an easy to use wrapper around the coinmarketcap API.
+*   [lazywinadmin/LazyWinAdmin\_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
+*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
+*   [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
+*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
+
+## Swift
+
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
+*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
+*   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
+
+## JavaScript
+
+*   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+*   [ftwegner/ChurchTools](https://github.com/ftwegner/ChurchTools) - ChurchTools Python code
+*   [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
+*   [merill/cmd](https://github.com/merill/cmd) - Repository hosting site for cmd.ms
 
 ## miscellaneous
 
@@ -81,35 +121,6 @@
 ## YAML
 
 *   [usnistgov/macos\_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
-
-## PowerShell
-
-*   [workoho/Entra-Tiering-Security-Model](https://github.com/workoho/Entra-Tiering-Security-Model) - Implement a powerful Tiering Security Model in Microsoft Entra for your Cloud Administrator identities using Azure Automation.
-*   [damienvanrobaeys/About\_my\_device](https://github.com/damienvanrobaeys/About_my_device) - About my device: A systray tool for that displays device information and run action like send logs or sync device
-*   [TheTechBeast8/HardeningAudit](https://github.com/TheTechBeast8/HardeningAudit) - Deployment scripts and a simple reports for CIS benchmarks
-*   [ztrhgf/Powershell\_CICD\_repository](https://github.com/ztrhgf/Powershell_CICD_repository) - This tool greatly simplifies Windows administrator life by automating the whole scripting content lifecycle. So the boring stuff like backuping, syntax checking, code formatting, content distribution or deletion will be automated and only thing left will be the code writing :)
-*   [onpremcloudguy/WHfBChecks](https://github.com/onpremcloudguy/WHfBChecks) - A group of PowerShell scripts to check that your environment is ready for Windows Hello for Business - Hybrid Key Trust
-*   [sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio](https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio) - Microsoft Integration, Azure, Power Platform, Office 365 and much more Stencils Pack it’s a Visio package that contains fully resizable Visio shapes (symbols/icons) that will help you to visually represent On-premise, Cloud or Hybrid Integration and Enterprise architectures scenarios (BizTalk Server, API Management, Logic Apps, Service Bus, Event Hub…), solutions diagrams and features or systems that use Microsoft Azure and related cloud and on-premises technologies in Visio 2016/2013
-*   [Semperis/PK-AADAppReg](https://github.com/Semperis/PK-AADAppReg) -
-*   [Deyda/Citrix](https://github.com/Deyda/Citrix) - Focused on automation, optimization, and troubleshooting for Citrix environments — including Virtual Apps and Desktops, NetScaler, WEM, and FSLogix. Contains scripts and tools used in enterprise-scale deployments and field-tested consulting projects.
-*   [Deyda/Documentation](https://github.com/Deyda/Documentation) - A collection of PowerShell-based documentation tools and templates for IT environments. Includes scripts to automatically generate, export, or format technical documentation in Word, Excel, or PDF formats.
-*   [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI
-*   [htcfreek/SimpleLapsGui](https://github.com/htcfreek/SimpleLapsGui) - A simple and fast GUI for Microsoft LAPS (legacy) and Windows LAPS. With this tool you can query passwords and change the expiration timestamp.
-*   [AzureAD/Deployment-Plans](https://github.com/AzureAD/Deployment-Plans) - Step by step guidance to deploy Azure Active Directory capabilities such as Conditional Access, Multi Factor Authentication, Self Service Password, and more.
-*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-*   [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
-*   [zjorz/Public-AD-Scripts](https://github.com/zjorz/Public-AD-Scripts) - AD Scripts
-*   [EUCweb/BIS-F](https://github.com/EUCweb/BIS-F) - Base Image Script Framework (BIS-F)
-*   [OsbornePro/BTPS-SecPack](https://github.com/OsbornePro/BTPS-SecPack) - This repository contains a collection of PowerShell tools that can be utilized to protect and defend an environment based on the recommendations of multiple cyber security researchers at Microsoft. These tools were created with a small to medium size enterprise environment in mind as smaller organizations do not always have the type of funding available to overly spend on security. The goal of this project is to help add value to an smaller organizations security by creating more visibility for the average IT Administrator. Organizations with 1,000’s of devices may find that this entire suite does not apply to them.
-*   [dotps1/PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
-*   [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
-*   [PSKeePass/PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - PowerShell module for KeePass
-*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
-*   [lazywinadmin/CoinMarketCap](https://github.com/lazywinadmin/CoinMarketCap) - CoinMarketCap is an MIT licensed PowerShell module providing an easy to use wrapper around the coinmarketcap API.
-*   [lazywinadmin/LazyWinAdmin\_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
-*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
-*   [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
-*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
 
 ## Rust
 
