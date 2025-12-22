@@ -4,36 +4,40 @@
 
 ## Table of Contents
 
-*   [Python](#python)
+*   [C++](#c)
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
+*   [Python](#python)
+*   [C#](#c-1)
 *   [CSS](#css)
 *   [PowerShell](#powershell)
-*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
-*   [C#](#c)
 *   [YAML](#yaml)
 *   [Rust](#rust)
-*   [C++](#c-1)
 *   [Svelte](#svelte)
 *   [HTML](#html)
 *   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 
-## Python
+## C++
 
-*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
-*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
-*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
-*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
-*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
+*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
+*   [evandiewald/LongHive](https://github.com/evandiewald/LongHive) - A smart beehive monitoring system using edge computing and the Helium protocol.
+
+## Swift
+
+*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
+*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
+*   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
 
 ## TypeScript
 
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 *   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
 *   [CrowdStrike/foundry-sample-rapid-response](https://github.com/CrowdStrike/foundry-sample-rapid-response) - Rapid Response sample Foundry app
 *   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
@@ -45,6 +49,29 @@
 *   [yue99520/rovoswitch](https://github.com/yue99520/rovoswitch) - A TypeScript CLI application for managing Rovo authentication profiles and executing authentication commands with encryption support.
 *   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 *   [Azure/microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) -
+
+## Python
+
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+*   [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
+*   [pyros-projects/z-Explorer](https://github.com/pyros-projects/z-Explorer) - Type a prompt. Get art 🖼️ No cloud required. No spaghetti needed.
+*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
+*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
+*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
+*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
+*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
+
+## C\#
+
+*   [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
+*   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
+*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
+*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
+*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
+*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
 ## CSS
 
@@ -80,13 +107,6 @@
 *   [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
 *   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
 
-## Swift
-
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
-*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
-*   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
-
 ## JavaScript
 
 *   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
@@ -110,14 +130,6 @@
 *   [binwiederhier/awesome-selfhosted](https://github.com/binwiederhier/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 *   [PoshCode/PowerShellFAQ](https://github.com/PoshCode/PowerShellFAQ) - A collection of frequently asked questions (and answers)
 
-## C\#
-
-*   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
-*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
-*   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
-*   [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-
 ## YAML
 
 *   [usnistgov/macos\_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
@@ -125,11 +137,6 @@
 ## Rust
 
 *   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
-
-## C++
-
-*   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [evandiewald/LongHive](https://github.com/evandiewald/LongHive) - A smart beehive monitoring system using edge computing and the Helium protocol.
 
 ## Svelte
 
