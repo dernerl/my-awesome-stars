@@ -5,9 +5,11 @@
 ## Table of Contents
 
 *   [TypeScript](#typescript)
+*   [Python](#python)
+*   [Shell](#shell)
+*   [Go](#go)
 *   [C++](#c)
 *   [Swift](#swift)
-*   [Python](#python)
 *   [C#](#c-1)
 *   [CSS](#css)
 *   [PowerShell](#powershell)
@@ -17,12 +19,16 @@
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [HTML](#html)
-*   [Shell](#shell)
 *   [Dockerfile](#dockerfile)
 *   [C](#c-2)
 
 ## TypeScript
 
+*   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) -
+*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+*   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
+*   [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
 *   [jmassengille/sketch2prompt](https://github.com/jmassengille/sketch2prompt) - sketch2prompt is meant to promote better system design, security, and code quality in a way that does not hijack creativity from the builder
 *   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 *   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
@@ -37,6 +43,32 @@
 *   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 *   [Azure/microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) -
 
+## Python
+
+*   [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
+*   [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+*   [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
+*   [pyros-projects/z-Explorer](https://github.com/pyros-projects/z-Explorer) - Type a prompt. Get art 🖼️ No cloud required. No spaghetti needed.
+*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
+*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
+*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
+*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
+*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
+
+## Shell
+
+*   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for better planning and executing software development tasks with your AI agents.
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+*   [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
+
+## Go
+
+*   [kopexa-grc/kspec](https://github.com/kopexa-grc/kspec) - A modern, extensible framework for defining and enforcing security policies across your digital infrastructure.
+
 ## C++
 
 *   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
@@ -50,20 +82,6 @@
 *   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
 *   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
 *   [macadmins/SupportCompanion](https://github.com/macadmins/SupportCompanion) - macOS helper application designed to empower end-users
-
-## Python
-
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-*   [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
-*   [pyros-projects/z-Explorer](https://github.com/pyros-projects/z-Explorer) - Type a prompt. Get art 🖼️ No cloud required. No spaghetti needed.
-*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
-*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
-*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
-*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
-*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
 
 ## C\#
 
@@ -106,7 +124,6 @@
 *   [lazywinadmin/LazyWinAdmin\_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
 *   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 *   [KelvinTegelaar/RunAsUser](https://github.com/KelvinTegelaar/RunAsUser) - a PowerShell module that allows you to impersonate the currently logged on user, while running PowerShell.exe as system.
-*   [PoshCode/ModuleBuilder](https://github.com/PoshCode/ModuleBuilder) - A PowerShell Module to help scripters write, version, sign, package, and publish.
 
 ## JavaScript
 
@@ -147,10 +164,6 @@
 
 *   [juro-privacy/free-privacy-notice](https://github.com/juro-privacy/free-privacy-notice) - Open source privacy notice design patterns.
 *   [githubbuch/githubbuch.github.io](https://github.com/githubbuch/githubbuch.github.io) - Das Repository zum Buch “GitHub - Eine praktische Einführung”
-
-## Shell
-
-*   [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 
 ## Dockerfile
 
