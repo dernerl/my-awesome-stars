@@ -19,10 +19,13 @@
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [HTML](#html)
-*   [Dockerfile](#dockerfile)
 
 ## TypeScript
 
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+*   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
+*   [ugurkocde/IntuneGet](https://github.com/ugurkocde/IntuneGet) - Skip the manual packaging workflow and deploy Winget apps to Intune in seconds.
+*   [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
 *   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
 *   [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) -
 *   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) -
@@ -78,9 +81,6 @@
 *   [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
 *   [PSKeePass/PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - PowerShell module for KeePass
 *   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
-*   [lazywinadmin/CoinMarketCap](https://github.com/lazywinadmin/CoinMarketCap) - CoinMarketCap is an MIT licensed PowerShell module providing an easy to use wrapper around the coinmarketcap API.
-*   [lazywinadmin/LazyWinAdmin\_GUI](https://github.com/lazywinadmin/LazyWinAdmin_GUI) - PowerShell Script that generates a GUI/WinForms loaded with tons of functions
-*   [lazywinadmin/PowerShell](https://github.com/lazywinadmin/PowerShell) - PowerShell functions and scripts (Azure, Active Directory, SCCM, SCSM, Exchange, O365, ...)
 
 ## Python
 
@@ -164,7 +164,3 @@
 
 *   [juro-privacy/free-privacy-notice](https://github.com/juro-privacy/free-privacy-notice) - Open source privacy notice design patterns.
 *   [githubbuch/githubbuch.github.io](https://github.com/githubbuch/githubbuch.github.io) - Das Repository zum Buch “GitHub - Eine praktische Einführung”
-
-## Dockerfile
-
-*   [PowerShell/PowerShell-Docker](https://github.com/PowerShell/PowerShell-Docker) - Repository for building PowerShell Docker images
