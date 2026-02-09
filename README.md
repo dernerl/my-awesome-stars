@@ -4,28 +4,44 @@
 
 ## Table of Contents
 
+*   [Groovy](#groovy)
+*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
-*   [C#](#c)
+*   [C](#c)
+*   [C#](#c-1)
 *   [PowerShell](#powershell)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [Go](#go)
-*   [C++](#c-1)
+*   [C++](#c-2)
 *   [Swift](#swift)
 *   [CSS](#css)
-*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [YAML](#yaml)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [HTML](#html)
 
+## Groovy
+
+*   [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts
+
+## JavaScript
+
+*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+*   [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) - Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.
+*   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
+*   [ftwegner/ChurchTools](https://github.com/ftwegner/ChurchTools) - ChurchTools Python code
+*   [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
+*   [merill/cmd](https://github.com/merill/cmd) - Repository hosting site for cmd.ms
+
 ## TypeScript
 
+*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 *   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
 *   [ugurkocde/IntuneGet](https://github.com/ugurkocde/IntuneGet) - Skip the manual packaging workflow and deploy Winget apps to Intune in seconds.
-*   [apify/mcp-cli](https://github.com/apify/mcp-cli) - Universal CLI client for MCP. Supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for scripting and code mode, proxy for AI sandboxes, and more.
+*   [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
 *   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
 *   [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) -
 *   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) -
@@ -46,6 +62,10 @@
 *   [yue99520/rovoswitch](https://github.com/yue99520/rovoswitch) - A TypeScript CLI application for managing Rovo authentication profiles and executing authentication commands with encryption support.
 *   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 *   [Azure/microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) -
+
+## C
+
+*   [badlogic/yakety](https://github.com/badlogic/yakety) - Voice recording and transcription app
 
 ## C\#
 
@@ -77,10 +97,6 @@
 *   [zjorz/Public-AD-Scripts](https://github.com/zjorz/Public-AD-Scripts) - AD Scripts
 *   [EUCweb/BIS-F](https://github.com/EUCweb/BIS-F) - Base Image Script Framework (BIS-F)
 *   [OsbornePro/BTPS-SecPack](https://github.com/OsbornePro/BTPS-SecPack) - This repository contains a collection of PowerShell tools that can be utilized to protect and defend an environment based on the recommendations of multiple cyber security researchers at Microsoft. These tools were created with a small to medium size enterprise environment in mind as smaller organizations do not always have the type of funding available to overly spend on security. The goal of this project is to help add value to an smaller organizations security by creating more visibility for the average IT Administrator. Organizations with 1,000’s of devices may find that this entire suite does not apply to them.
-*   [dotps1/PSGist](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
-*   [maurice-daly/DriverAutomationTool](https://github.com/maurice-daly/DriverAutomationTool) - Home of the Driver Automation Tool
-*   [PSKeePass/PoShKeePass](https://github.com/PSKeePass/PoShKeePass) - PowerShell module for KeePass
-*   [janikvonrotz/awesome-powershell](https://github.com/janikvonrotz/awesome-powershell) - This repository has been moved to https://codeberg.org/janikvonrotz/awesome-powershell. Please visit the new location for the latest updates.
 
 ## Python
 
@@ -102,7 +118,6 @@
 
 *   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-*   [ansible/ansible-examples](https://github.com/ansible/ansible-examples) - A few starter examples of ansible playbooks, to show features and how they work together.  See http://galaxy.ansible.com for example roles from the Ansible community for deploying many popular applications.
 
 ## Go
 
@@ -125,13 +140,6 @@
 ## CSS
 
 *   [CrowdStrike/foundry-sample-mitre](https://github.com/CrowdStrike/foundry-sample-mitre) - Triage with MITRE Attack sample Foundry app
-
-## JavaScript
-
-*   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-*   [ftwegner/ChurchTools](https://github.com/ftwegner/ChurchTools) - ChurchTools Python code
-*   [arifszn/OneClick](https://github.com/arifszn/OneClick) - Navigate to your favorite actions on the websites you love with just one click.
-*   [merill/cmd](https://github.com/merill/cmd) - Repository hosting site for cmd.ms
 
 ## miscellaneous
 
