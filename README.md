@@ -4,23 +4,61 @@
 
 ## Table of Contents
 
+*   [Python](#python)
+*   [miscellaneous](#miscellaneous)
+*   [Shell](#shell)
 *   [Groovy](#groovy)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [C](#c)
 *   [C#](#c-1)
 *   [PowerShell](#powershell)
-*   [Python](#python)
-*   [Shell](#shell)
 *   [Go](#go)
 *   [C++](#c-2)
 *   [Swift](#swift)
 *   [CSS](#css)
-*   [miscellaneous](#miscellaneous)
 *   [YAML](#yaml)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
 *   [HTML](#html)
+
+## Python
+
+*   [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+*   [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
+*   [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
+*   [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
+*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+*   [pyros-projects/z-Explorer](https://github.com/pyros-projects/z-Explorer) - Type a prompt. Get art 🖼️ No cloud required. No spaghetti needed.
+*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
+*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
+*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
+*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
+*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
+*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
+*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
+*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
+
+## miscellaneous
+
+*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
+*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
+*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
+*   [ztrhgf/DevOps\_Pipelines](https://github.com/ztrhgf/DevOps_Pipelines) -
+*   [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
+*   [DanielChronlund/DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations) - A collection of Microsoft Sentinel workbooks and analytics rules.
+*   [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
+*   [dream-365/OfficeDev-Samples](https://github.com/dream-365/OfficeDev-Samples) - Office addins development
+*   [msandbu/azuread](https://github.com/msandbu/azuread) -
+*   [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
+*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
+*   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
+
+## Shell
+
+*   [friedrith/productivity](https://github.com/friedrith/productivity) - Scripts and commands to improve productivity
+*   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ## Groovy
 
@@ -95,29 +133,6 @@
 *   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 *   [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 *   [zjorz/Public-AD-Scripts](https://github.com/zjorz/Public-AD-Scripts) - AD Scripts
-*   [EUCweb/BIS-F](https://github.com/EUCweb/BIS-F) - Base Image Script Framework (BIS-F)
-*   [OsbornePro/BTPS-SecPack](https://github.com/OsbornePro/BTPS-SecPack) - This repository contains a collection of PowerShell tools that can be utilized to protect and defend an environment based on the recommendations of multiple cyber security researchers at Microsoft. These tools were created with a small to medium size enterprise environment in mind as smaller organizations do not always have the type of funding available to overly spend on security. The goal of this project is to help add value to an smaller organizations security by creating more visibility for the average IT Administrator. Organizations with 1,000’s of devices may find that this entire suite does not apply to them.
-
-## Python
-
-*   [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
-*   [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-*   [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
-*   [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
-*   [pyros-projects/z-Explorer](https://github.com/pyros-projects/z-Explorer) - Type a prompt. Get art 🖼️ No cloud required. No spaghetti needed.
-*   [basnijholt/agent-cli](https://github.com/basnijholt/agent-cli) - A suite of local AI-powered command-line tools
-*   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
-*   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
-*   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
-*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
-*   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
-*   [bazn/MrAnderson](https://github.com/bazn/MrAnderson) - Rasa Chatbot with Matrix42 integration
-
-## Shell
-
-*   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
 ## Go
 
@@ -140,21 +155,6 @@
 ## CSS
 
 *   [CrowdStrike/foundry-sample-mitre](https://github.com/CrowdStrike/foundry-sample-mitre) - Triage with MITRE Attack sample Foundry app
-
-## miscellaneous
-
-*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
-*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
-*   [ztrhgf/DevOps\_Pipelines](https://github.com/ztrhgf/DevOps_Pipelines) -
-*   [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
-*   [DanielChronlund/DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations) - A collection of Microsoft Sentinel workbooks and analytics rules.
-*   [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
-*   [dream-365/OfficeDev-Samples](https://github.com/dream-365/OfficeDev-Samples) - Office addins development
-*   [msandbu/azuread](https://github.com/msandbu/azuread) -
-*   [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
-*   [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-*   [kahun/awesome-sysadmin](https://github.com/kahun/awesome-sysadmin) - A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.
-*   [binwiederhier/awesome-selfhosted](https://github.com/binwiederhier/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## YAML
 
