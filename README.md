@@ -4,11 +4,12 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [Python](#python)
-*   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
 *   [Groovy](#groovy)
 *   [C](#c)
@@ -20,13 +21,31 @@
 *   [YAML](#yaml)
 *   [Rust](#rust)
 *   [Svelte](#svelte)
-*   [HTML](#html)
+
+## HTML
+
+*   [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
+*   [juro-privacy/free-privacy-notice](https://github.com/juro-privacy/free-privacy-notice) - Open source privacy notice design patterns.
+
+## miscellaneous
+
+*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
+*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
+*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
+*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
+*   [ztrhgf/DevOps\_Pipelines](https://github.com/ztrhgf/DevOps_Pipelines) -
+*   [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
+*   [DanielChronlund/DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations) - A collection of Microsoft Sentinel workbooks and analytics rules.
+*   [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
+*   [dream-365/OfficeDev-Samples](https://github.com/dream-365/OfficeDev-Samples) - Office addins development
+*   [msandbu/azuread](https://github.com/msandbu/azuread) -
+*   [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
 
 ## TypeScript
 
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
 *   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Drag and drop rack visualizer
+*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
 *   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 *   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
@@ -88,19 +107,6 @@
 *   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
 *   [paralax/awesome-honeypots](https://github.com/paralax/awesome-honeypots) - an awesome list of honeypot resources
 
-## miscellaneous
-
-*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
-*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
-*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
-*   [ztrhgf/DevOps\_Pipelines](https://github.com/ztrhgf/DevOps_Pipelines) -
-*   [devisasari/awesome-gpt-store](https://github.com/devisasari/awesome-gpt-store) - A curated list of awesome GPTs in the GPT Store
-*   [DanielChronlund/DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations) - A collection of Microsoft Sentinel workbooks and analytics rules.
-*   [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
-*   [dream-365/OfficeDev-Samples](https://github.com/dream-365/OfficeDev-Samples) - Office addins development
-*   [msandbu/azuread](https://github.com/msandbu/azuread) -
-*   [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
-
 ## Shell
 
 *   [friedrith/productivity](https://github.com/friedrith/productivity) - Scripts and commands to improve productivity
@@ -122,7 +128,6 @@
 *   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
 *   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
 *   [mRemoteNG/mRemoteNG](https://github.com/mRemoteNG/mRemoteNG) - mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.
-*   [OfficeDev/Microsoft-Teams-Samples](https://github.com/OfficeDev/Microsoft-Teams-Samples) - Welcome to the Microsoft Teams samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Microsoft Teams App!
 
 ## PowerShell
 
@@ -141,7 +146,6 @@
 *   [htcfreek/SimpleLapsGui](https://github.com/htcfreek/SimpleLapsGui) - A simple and fast GUI for Microsoft LAPS (legacy) and Windows LAPS. With this tool you can query passwords and change the expiration timestamp.
 *   [AzureAD/Deployment-Plans](https://github.com/AzureAD/Deployment-Plans) - Step by step guidance to deploy Azure Active Directory capabilities such as Conditional Access, Multi Factor Authentication, Self Service Password, and more.
 *   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
-*   [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) - This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 
 ## Go
 
@@ -168,7 +172,3 @@
 ## Svelte
 
 *   [cupcakearmy/cryptgeon](https://github.com/cupcakearmy/cryptgeon) - cryptgeon is a secure, open source note / file sharing service inspired by PrivNote written in rust & svelte.
-
-## HTML
-
-*   [juro-privacy/free-privacy-notice](https://github.com/juro-privacy/free-privacy-notice) - Open source privacy notice design patterns.
