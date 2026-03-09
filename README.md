@@ -4,9 +4,10 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [Rust](#rust)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [TypeScript](#typescript)
 *   [JavaScript](#javascript)
 *   [Swift](#swift)
 *   [Python](#python)
@@ -19,8 +20,46 @@
 *   [C++](#c-2)
 *   [CSS](#css)
 *   [YAML](#yaml)
-*   [Rust](#rust)
 *   [Svelte](#svelte)
+
+## TypeScript
+
+*   [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
+*   [claudio-silva/ai-translator](https://github.com/claudio-silva/ai-translator) - A web application that translates text of any length, using multiple AI models.
+*   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - From Claude Artifact to deployable React app — in seconds!
+*   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
+*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+*   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
+*   [ugurkocde/IntuneGet](https://github.com/ugurkocde/IntuneGet) - Skip the manual packaging workflow and deploy Winget apps to Intune in seconds.
+*   [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
+*   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
+*   [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) -
+*   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) - VS Code extension for spec-driven development — manage specs, workflows, and steering docs for AI CLI tools (Claude Code, Gemini CLI, Copilot CLI)
+*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+*   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
+*   [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+*   [jmassengille/sketch2prompt](https://github.com/jmassengille/sketch2prompt) - sketch2prompt is meant to promote better system design, security, and code quality in a way that does not hijack creativity from the builder
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+*   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
+*   [CrowdStrike/foundry-sample-rapid-response](https://github.com/CrowdStrike/foundry-sample-rapid-response) - Rapid Response sample Foundry app
+*   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+*   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
+*   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
+*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+*   [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
+*   [yue99520/rovoswitch](https://github.com/yue99520/rovoswitch) - A TypeScript CLI application for managing Rovo authentication profiles and executing authentication commands with encryption support.
+*   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+
+## Rust
+
+*   [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 
 ## HTML
 
@@ -38,39 +77,6 @@
 *   [DanielChronlund/DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations) - A collection of Microsoft Sentinel workbooks and analytics rules.
 *   [HQarroum/awesome-iot](https://github.com/HQarroum/awesome-iot) - 🤖 A curated list of awesome Internet of Things projects and resources.
 *   [dream-365/OfficeDev-Samples](https://github.com/dream-365/OfficeDev-Samples) - Office addins development
-*   [msandbu/azuread](https://github.com/msandbu/azuread) -
-*   [onlurking/awesome-infosec](https://github.com/onlurking/awesome-infosec) -  A curated list of awesome infosec courses and training resources.
-
-## TypeScript
-
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
-*   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
-*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-*   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
-*   [ugurkocde/IntuneGet](https://github.com/ugurkocde/IntuneGet) - Skip the manual packaging workflow and deploy Winget apps to Intune in seconds.
-*   [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
-*   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
-*   [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) -
-*   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) -
-*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-*   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
-*   [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
-*   [jmassengille/sketch2prompt](https://github.com/jmassengille/sketch2prompt) - sketch2prompt is meant to promote better system design, security, and code quality in a way that does not hijack creativity from the builder
-*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-*   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
-*   [CrowdStrike/foundry-sample-rapid-response](https://github.com/CrowdStrike/foundry-sample-rapid-response) - Rapid Response sample Foundry app
-*   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-*   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-*   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-*   [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
-*   [yue99520/rovoswitch](https://github.com/yue99520/rovoswitch) - A TypeScript CLI application for managing Rovo authentication profiles and executing authentication commands with encryption support.
-*   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
-*   [Azure/microsoft-365-certification-quick-evaluation](https://github.com/Azure/microsoft-365-certification-quick-evaluation) -
 
 ## JavaScript
 
@@ -145,7 +151,6 @@
 *   [petripaavola/IntuneDeviceDetailsGUI](https://github.com/petripaavola/IntuneDeviceDetailsGUI) - Intune Device Details GUI HTML v4.2 (New Updated!)
 *   [htcfreek/SimpleLapsGui](https://github.com/htcfreek/SimpleLapsGui) - A simple and fast GUI for Microsoft LAPS (legacy) and Windows LAPS. With this tool you can query passwords and change the expiration timestamp.
 *   [AzureAD/Deployment-Plans](https://github.com/AzureAD/Deployment-Plans) - Step by step guidance to deploy Azure Active Directory capabilities such as Conditional Access, Multi Factor Authentication, Self Service Password, and more.
-*   [microsoft/windows-dev-box-setup-scripts](https://github.com/microsoft/windows-dev-box-setup-scripts) - Scripts to simplify setting up a Windows developer box
 
 ## Go
 
@@ -155,7 +160,6 @@
 
 *   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 *   [variar/klogg](https://github.com/variar/klogg) - Really fast log explorer based on glogg project
-*   [evandiewald/LongHive](https://github.com/evandiewald/LongHive) - A smart beehive monitoring system using edge computing and the Helium protocol.
 
 ## CSS
 
@@ -164,10 +168,6 @@
 ## YAML
 
 *   [usnistgov/macos\_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
-
-## Rust
-
-*   [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 
 ## Svelte
 
