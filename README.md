@@ -5,15 +5,16 @@
 ## Table of Contents
 
 *   [Python](#python)
-*   [Shell](#shell)
 *   [Rust](#rust)
+*   [HTML](#html)
+*   [TypeScript](#typescript)
+*   [Java](#java)
+*   [Shell](#shell)
 *   [Swift](#swift)
 *   [C](#c)
 *   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
-*   [TypeScript](#typescript)
 *   [PowerShell](#powershell)
-*   [HTML](#html)
 *   [Groovy](#groovy)
 *   [C#](#c-1)
 *   [Go](#go)
@@ -23,6 +24,8 @@
 
 ## Python
 
+*   [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
+*   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
 *   [mitkox/vllm-turboquant](https://github.com/mitkox/vllm-turboquant) - vLLM 0.18.1rc1 with TurboQuant
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
@@ -43,55 +46,21 @@
 *   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
 *   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
 
-## Shell
-
-*   [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) - Stop AI from hallucinating code. Rules + Hooks + Guards for Claude Code & Codex.
-*   [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
-*   [friedrith/productivity](https://github.com/friedrith/productivity) - Scripts and commands to improve productivity
-*   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
-*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
-
 ## Rust
 
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 *   [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
 *   [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
-## Swift
+## HTML
 
-*   [sametsazak/mergen](https://github.com/sametsazak/mergen) - Mergen is an open-source, native macOS application for auditing and checking the security of your MacOS.
-*   [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
-*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-*   [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
-*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
-*   [gilburns/Intuneomator](https://github.com/gilburns/Intuneomator) - Swift based automated application management for Intune.
-
-## C
-
-*   [mauriziofonte/toktoken](https://github.com/mauriziofonte/toktoken) - TokToken is a fast, single-binary C codebase indexer for AI coding agents. Powered by universal-ctags and SQLite FTS5, it provides precise symbol search, dependency tracking, and an MCP server. TokToken reduces LLM context token usage by 88-99% by retrieving exact code symbols instead of reading entire files. Zero runtime dependencies.
-*   [badlogic/yakety](https://github.com/badlogic/yakety) - Voice recording and transcription app
-
-## miscellaneous
-
-*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
-*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
-*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
-*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
-*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
-
-## JavaScript
-
-*   [PeterHueer/claude-dashboard](https://github.com/PeterHueer/claude-dashboard) - A local web dashboard for Claude Code to manage skills, MCP servers, plugins, agents and custom slash commands — all in one place. Start with /dashboard inside Claude Code.
-*   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-*   [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
-*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
-*   [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) - Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.
-*   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
-*   [ftwegner/ChurchTools](https://github.com/ftwegner/ChurchTools) - ChurchTools Python code
+*   [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
+*   [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 
 ## TypeScript
 
+*   [shipzero/zero](https://github.com/shipzero/zero) - Deploy containers to your own server with one command. Automatic TLS, zero-downtime, no config.
+*   [voku/CleanRoom](https://github.com/voku/CleanRoom) - A scary story about software licenses.
 *   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 *   [firecrawl/cli](https://github.com/firecrawl/cli) - CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents
 *   [Jing-yilin/linkedin-mcp-server](https://github.com/Jing-yilin/linkedin-mcp-server) -
@@ -125,9 +94,50 @@
 *   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 *   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-*   [BetterBahn/betterbahn](https://github.com/BetterBahn/betterbahn) - BetterBahn is an open-source project that aims to improve the train travel experience in germany. The current focus is on split-ticketing. However, further functions are planned to follow in the future.
-*   [yue99520/rovoswitch](https://github.com/yue99520/rovoswitch) - A TypeScript CLI application for managing Rovo authentication profiles and executing authentication commands with encryption support.
-*   [microsoft/azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
+
+## Java
+
+*   [AI-Unified-Process/marketplace](https://github.com/AI-Unified-Process/marketplace) -
+
+## Shell
+
+*   [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) - Stop AI from hallucinating code. Rules + Hooks + Guards for Claude Code & Codex.
+*   [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
+*   [friedrith/productivity](https://github.com/friedrith/productivity) - Scripts and commands to improve productivity
+*   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
+*   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
+
+## Swift
+
+*   [sametsazak/mergen](https://github.com/sametsazak/mergen) - Mergen is an open-source, native macOS application for auditing and checking the security of your MacOS.
+*   [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
+*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+*   [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
+*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
+
+## C
+
+*   [mauriziofonte/toktoken](https://github.com/mauriziofonte/toktoken) - TokToken is a fast, single-binary C codebase indexer for AI coding agents. Powered by universal-ctags and SQLite FTS5, it provides precise symbol search, dependency tracking, and an MCP server. TokToken reduces LLM context token usage by 88-99% by retrieving exact code symbols instead of reading entire files. Zero runtime dependencies.
+*   [badlogic/yakety](https://github.com/badlogic/yakety) - Voice recording and transcription app
+
+## miscellaneous
+
+*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
+*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
+*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
+*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
+*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
+
+## JavaScript
+
+*   [PeterHueer/claude-dashboard](https://github.com/PeterHueer/claude-dashboard) - A local web dashboard for Claude Code to manage skills, MCP servers, plugins, agents and custom slash commands — all in one place. Start with /dashboard inside Claude Code.
+*   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+*   [arachnys/cabot](https://github.com/arachnys/cabot) - Self-hosted, easily-deployable monitoring and alerts service - like a lightweight PagerDuty
+*   [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+*   [Fast-Editor/Lynkr](https://github.com/Fast-Editor/Lynkr) - Streamline your workflow with Lynkr, a CLI tool that acts as an HTTP proxy for efficient code interactions using Claude Code CLI.
+*   [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 
 ## PowerShell
 
@@ -135,12 +145,6 @@
 *   [fbprogmbh/Hardening-Audit-Tool-AuditTAP](https://github.com/fbprogmbh/Hardening-Audit-Tool-AuditTAP) - FBPro Audit Test Automation Package allows you to create compliance reports for your systems. The resulting HTML-reports provide a transparent overview of your devices' security configuration compared to international security standards and hardening guides.
 *   [CrowdStrike/psfalcon](https://github.com/CrowdStrike/psfalcon) - PowerShell for CrowdStrike's OAuth2 APIs
 *   [workoho/Entra-Tiering-Security-Model](https://github.com/workoho/Entra-Tiering-Security-Model) - Implement a powerful Tiering Security Model in Microsoft Entra for your Cloud Administrator identities using Azure Automation.
-*   [damienvanrobaeys/About\_my\_device](https://github.com/damienvanrobaeys/About_my_device) - About my device: A systray tool for that displays device information and run action like send logs or sync device
-*   [TheTechBeast8/HardeningAudit](https://github.com/TheTechBeast8/HardeningAudit) - Deployment scripts and a simple reports for CIS benchmarks
-
-## HTML
-
-*   [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 
 ## Groovy
 
