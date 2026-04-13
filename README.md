@@ -4,30 +4,57 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
+*   [Jupyter Notebook](#jupyter-notebook)
+*   [Swift](#swift)
 *   [Python](#python)
+*   [C++](#c)
 *   [Rust](#rust)
 *   [HTML](#html)
 *   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Shell](#shell)
-*   [Swift](#swift)
-*   [C](#c)
-*   [miscellaneous](#miscellaneous)
+*   [C](#c-1)
 *   [JavaScript](#javascript)
 *   [PowerShell](#powershell)
 *   [Groovy](#groovy)
-*   [C#](#c-1)
+*   [C#](#c-2)
 *   [Go](#go)
-*   [C++](#c-2)
 *   [CSS](#css)
 *   [YAML](#yaml)
 
+## miscellaneous
+
+*   [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
+*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
+*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
+*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
+*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
+
+## Jupyter Notebook
+
+*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+
+## Swift
+
+*   [onderk-motion/LocalPorts](https://github.com/onderk-motion/LocalPorts) -
+*   [sametsazak/mergen](https://github.com/sametsazak/mergen) - Mergen is an open-source, native macOS application for auditing and checking the security of your MacOS.
+*   [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
+*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+*   [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
+*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
+
 ## Python
 
+*   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+*   [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+*   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 *   [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 *   [usestrix/strix](https://github.com/usestrix/strix) - Open-source AI hackers to find and fix your app’s vulnerabilities.
-*   [mitkox/vllm-turboquant](https://github.com/mitkox/vllm-turboquant) - vLLM 0.18.1rc1 with TurboQuant
+*   [mitkox/vllm-turboquant](https://github.com/mitkox/vllm-turboquant) - vLLM TurboQuant
 *   [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 *   [softaworks/agent-toolkit](https://github.com/softaworks/agent-toolkit) - A curated collection of skills for AI coding agents. Skills are packaged instructions and scripts that extend agent capabilities across development, documentation, planning, and professional workflows.
 *   [ReScienceLab/opc-skills](https://github.com/ReScienceLab/opc-skills) - Agent Skills for Solopreneurs
@@ -43,8 +70,11 @@
 *   [CrowdStrike/falconpy](https://github.com/CrowdStrike/falconpy) - The CrowdStrike Falcon SDK for Python
 *   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 *   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
-*   [BenjaminIheukumere/secrets\_find0r](https://github.com/BenjaminIheukumere/secrets_find0r) - Secrets Find0r is a multithreaded SMB share crawler that hunts for exposed credentials and secrets across Windows networks. It enumerates shares, recursively scans files with regex/keyword rules, highlights matched tokens on screen, and exports clean ASCII tables. Supports DOCX/PDF/legacy Office and depth limits.
-*   [dirkjanm/ROADtools](https://github.com/dirkjanm/ROADtools) - A collection of Azure AD/Entra tools for offensive and defensive security purposes
+
+## C++
+
+*   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
+*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 
 ## Rust
 
@@ -92,8 +122,6 @@
 *   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 *   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 *   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
-*   [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
-*   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## Java
 
@@ -107,28 +135,10 @@
 *   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 *   [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.
 
-## Swift
-
-*   [sametsazak/mergen](https://github.com/sametsazak/mergen) - Mergen is an open-source, native macOS application for auditing and checking the security of your MacOS.
-*   [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
-*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-*   [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
-*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
-
 ## C
 
 *   [mauriziofonte/toktoken](https://github.com/mauriziofonte/toktoken) - TokToken is a fast, single-binary C codebase indexer for AI coding agents. Powered by universal-ctags and SQLite FTS5, it provides precise symbol search, dependency tracking, and an MCP server. TokToken reduces LLM context token usage by 88-99% by retrieving exact code symbols instead of reading entire files. Zero runtime dependencies.
 *   [badlogic/yakety](https://github.com/badlogic/yakety) - Voice recording and transcription app
-
-## miscellaneous
-
-*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
-*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
-*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
-*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
-*   [bicced/n8n-crypto-workflows](https://github.com/bicced/n8n-crypto-workflows) - n8n crypto/web3 workflow templates: Solana, Ethereum, Binance Smart Chain, Base, EVM, DeFi, bots, alerts
 
 ## JavaScript
 
@@ -144,7 +154,6 @@
 *   [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 *   [fbprogmbh/Hardening-Audit-Tool-AuditTAP](https://github.com/fbprogmbh/Hardening-Audit-Tool-AuditTAP) - FBPro Audit Test Automation Package allows you to create compliance reports for your systems. The resulting HTML-reports provide a transparent overview of your devices' security configuration compared to international security standards and hardening guides.
 *   [CrowdStrike/psfalcon](https://github.com/CrowdStrike/psfalcon) - PowerShell for CrowdStrike's OAuth2 APIs
-*   [workoho/Entra-Tiering-Security-Model](https://github.com/workoho/Entra-Tiering-Security-Model) - Implement a powerful Tiering Security Model in Microsoft Entra for your Cloud Administrator identities using Azure Automation.
 
 ## Groovy
 
@@ -155,15 +164,10 @@
 *   [MostlyCompliantEndpoint/Mostly-Compliant-Endpoint](https://github.com/MostlyCompliantEndpoint/Mostly-Compliant-Endpoint) - Contains useful tools, powershell scripts and other projects that are released for admins.
 *   [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
 *   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
-*   [Ellerbach/docfx-companion-tools](https://github.com/Ellerbach/docfx-companion-tools) - A suite of tools, pipelines templates to take the very best of DocFX
 
 ## Go
 
 *   [kopexa-grc/kspec](https://github.com/kopexa-grc/kspec) - A modern, extensible framework for defining and enforcing security policies across your digital infrastructure.
-
-## C++
-
-*   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 
 ## CSS
 
