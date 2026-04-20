@@ -4,14 +4,16 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
+*   [PHP](#php)
+*   [Rust](#rust)
+*   [Python](#python)
 *   [miscellaneous](#miscellaneous)
+*   [Go](#go)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Swift](#swift)
-*   [Python](#python)
 *   [C++](#c)
-*   [Rust](#rust)
 *   [HTML](#html)
-*   [TypeScript](#typescript)
 *   [Java](#java)
 *   [Shell](#shell)
 *   [C](#c-1)
@@ -19,37 +21,59 @@
 *   [PowerShell](#powershell)
 *   [Groovy](#groovy)
 *   [C#](#c-2)
-*   [Go](#go)
 *   [CSS](#css)
-*   [YAML](#yaml)
 
-## miscellaneous
+## TypeScript
 
-*   [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
-*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
-*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
-*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
-*   [eyfel/mcp-server-solidworks](https://github.com/eyfel/mcp-server-solidworks) -  This MCP server integrates with SolidWorks API and structuring it into Claude-compatible context streams.
+*   [codemcp/ade](https://github.com/codemcp/ade) - Agentic development environment
+*   [shipzero/zero](https://github.com/shipzero/zero) - Deploy containers to your own server with one command. Automatic TLS, zero-downtime, no config.
+*   [voku/CleanRoom](https://github.com/voku/CleanRoom) - A scary story about software licenses.
+*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
+*   [firecrawl/cli](https://github.com/firecrawl/cli) - CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents
+*   [Jing-yilin/linkedin-mcp-server](https://github.com/Jing-yilin/linkedin-mcp-server) -
+*   [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
+*   [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
+*   [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
+*   [claudio-silva/ai-translator](https://github.com/claudio-silva/ai-translator) - A web application that translates text of any length, using multiple AI models.
+*   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - From Claude Artifact to deployable React app — in seconds!
+*   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
+*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
+*   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
+*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
+*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+*   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
+*   [ugurkocde/IntuneGet](https://github.com/ugurkocde/IntuneGet) - Skip the manual packaging workflow and deploy Winget apps to Intune in seconds.
+*   [apify/mcpc](https://github.com/apify/mcpc) - mcpc is a universal CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, tasks, JSON output for code mode, proxy for AI sandboxes, x402, and more.
+*   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
+*   [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) -
+*   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) - VS Code extension for spec-driven development — manage specs, workflows, and steering docs for AI CLI tools (Claude Code, Gemini CLI, Copilot CLI)
+*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
+*   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
+*   [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+*   [jmassengille/sketch2prompt](https://github.com/jmassengille/sketch2prompt) - sketch2prompt is meant to promote better system design, security, and code quality in a way that does not hijack creativity from the builder
+*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
+*   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
+*   [CrowdStrike/foundry-sample-rapid-response](https://github.com/CrowdStrike/foundry-sample-rapid-response) - Rapid Response sample Foundry app
+*   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
 
-## Jupyter Notebook
+## PHP
 
-*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+*   [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
-## Swift
+## Rust
 
-*   [onderk-motion/LocalPorts](https://github.com/onderk-motion/LocalPorts) -
-*   [sametsazak/mergen](https://github.com/sametsazak/mergen) - Mergen is an open-source, native macOS application for auditing and checking the security of your MacOS.
-*   [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
-*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
-*   [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
-*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
-*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
-*   [jordanbaird/createicns](https://github.com/jordanbaird/createicns) - Create 'icns' and 'iconset' files from standard images
+*   [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+*   [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
+*   [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 ## Python
 
+*   [eyesecurity/skills](https://github.com/eyesecurity/skills) - EU compliance enforcement for AI agents. Org-profile-driven guardrails for NIS2, GDPR & ISO 27001 — blocks secrets, flags critical asset impact, enforces data residency, verifies suppliers, tracks incidents with automated deadlines.
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-*   [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
+*   [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 *   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 *   [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 *   [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
@@ -71,57 +95,42 @@
 *   [microsoft/secureboot\_objects](https://github.com/microsoft/secureboot_objects) - Secure boot objects recommended by Microsoft.
 *   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 
+## miscellaneous
+
+*   [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+*   [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
+*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
+*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
+*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
+
+## Go
+
+*   [ugurkocde/IntuneQL](https://github.com/ugurkocde/IntuneQL) - Keyboard-driven terminal workspace for Intune administration. Query the Microsoft Graph API visually, browse 100+ built-in queries across 102 Intune resources, export as CSV/JSON/PowerShell/cURL, run remediation actions, and generate queries from natural language using local AI. Install from PowerShell Gallery with Install-Module IntuneQL.
+*   [kopexa-grc/kspec](https://github.com/kopexa-grc/kspec) - A modern, extensible framework for defining and enforcing security policies across your digital infrastructure.
+
+## Jupyter Notebook
+
+*   [NirDiamant/RAG\_Techniques](https://github.com/NirDiamant/RAG_Techniques) - This repository showcases various advanced techniques for Retrieval-Augmented Generation (RAG) systems. Each technique has a detailed notebook tutorial.
+
+## Swift
+
+*   [onderk-motion/LocalPorts](https://github.com/onderk-motion/LocalPorts) -
+*   [sametsazak/mergen](https://github.com/sametsazak/mergen) - Mergen is an open-source, native macOS application for auditing and checking the security of your MacOS.
+*   [munki/munki](https://github.com/munki/munki) - Managed software installation for macOS —
+*   [OpenEmu/OpenEmu](https://github.com/OpenEmu/OpenEmu) - 🕹 Retro video game emulation for macOS
+*   [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
+*   [root3nl/SupportApp](https://github.com/root3nl/SupportApp) - The Support App is developed by Root3, specialized in managing Apple devices. Root3 offers consultancy and support for organizations to get the most out of their Apple devices and is based in The Netherlands (Halfweg).
+*   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
+
 ## C++
 
 *   [xbmc/xbmc](https://github.com/xbmc/xbmc) - Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS, tvOS and Windows.
 *   [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) - WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.
 
-## Rust
-
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-*   [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
-*   [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
-
 ## HTML
 
 *   [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 *   [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
-
-## TypeScript
-
-*   [shipzero/zero](https://github.com/shipzero/zero) - Deploy containers to your own server with one command. Automatic TLS, zero-downtime, no config.
-*   [voku/CleanRoom](https://github.com/voku/CleanRoom) - A scary story about software licenses.
-*   [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
-*   [firecrawl/cli](https://github.com/firecrawl/cli) - CLI and Agent Skill for Firecrawl - Add scrape, search, and browsing capabilities to your AI agents
-*   [Jing-yilin/linkedin-mcp-server](https://github.com/Jing-yilin/linkedin-mcp-server) -
-*   [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
-*   [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-*   [steipete/poltergeist](https://github.com/steipete/poltergeist) - The ghost that keeps your builds fresh - Universal hot reload, file watcher and build automation for any language.
-*   [claudio-silva/ai-translator](https://github.com/claudio-silva/ai-translator) - A web application that translates text of any length, using multiple AI models.
-*   [claudio-silva/claude-artifact-runner](https://github.com/claudio-silva/claude-artifact-runner) - From Claude Artifact to deployable React app — in seconds!
-*   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
-*   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens processed
-*   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
-*   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
-*   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
-*   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
-*   [ugurkocde/IntuneGet](https://github.com/ugurkocde/IntuneGet) - Skip the manual packaging workflow and deploy Winget apps to Intune in seconds.
-*   [apify/mcp-cli](https://github.com/apify/mcp-cli) - mcpc is a CLI client for MCP. It supports persistent sessions, stdio/HTTP, OAuth 2.1, JSON output for code mode, proxy for AI sandboxes, and much more.
-*   [Pimzino/spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) - A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment.
-*   [johnlindquist/worktree-cli](https://github.com/johnlindquist/worktree-cli) -
-*   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) - VS Code extension for spec-driven development — manage specs, workflows, and steering docs for AI CLI tools (Claude Code, Gemini CLI, Copilot CLI)
-*   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-*   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-*   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
-*   [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
-*   [jmassengille/sketch2prompt](https://github.com/jmassengille/sketch2prompt) - sketch2prompt is meant to promote better system design, security, and code quality in a way that does not hijack creativity from the builder
-*   [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
-*   [hustcc/mcp-mermaid](https://github.com/hustcc/mcp-mermaid) - ❤️ Generate mermaid diagram and chart with AI MCP dynamically.
-*   [CrowdStrike/foundry-sample-rapid-response](https://github.com/CrowdStrike/foundry-sample-rapid-response) - Rapid Response sample Foundry app
-*   [tremorlabs/tremor-npm](https://github.com/tremorlabs/tremor-npm) - React components to build charts and dashboards
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-*   [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 
 ## Java
 
@@ -129,7 +138,7 @@
 
 ## Shell
 
-*   [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) - Stop AI from hallucinating code. Rules + Hooks + Guards for Claude Code & Codex.
+*   [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) - Native rules, hooks, and guards that prevent Claude Code and Codex from hallucinating code, duplicating files, or shipping unverified changes.
 *   [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 *   [friedrith/productivity](https://github.com/friedrith/productivity) - Scripts and commands to improve productivity
 *   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
@@ -163,16 +172,7 @@
 
 *   [MostlyCompliantEndpoint/Mostly-Compliant-Endpoint](https://github.com/MostlyCompliantEndpoint/Mostly-Compliant-Endpoint) - Contains useful tools, powershell scripts and other projects that are released for admins.
 *   [HotCakeX/Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security) - Harden Windows Safely, Securely using Official Supported Microsoft methods and proper explanation | Always up-to-date and works with the latest build of Windows | Provides tools and Guides for Personal, Enterprise, Government and Military security levels | SLSA Level 3 Compliant for Secure Development and Build Process | Apps Available on MS Store✨
-*   [chlaplan/MDE-Monitoring-App](https://github.com/chlaplan/MDE-Monitoring-App) - Troubleshooting MDE Workstations
-
-## Go
-
-*   [kopexa-grc/kspec](https://github.com/kopexa-grc/kspec) - A modern, extensible framework for defining and enforcing security policies across your digital infrastructure.
 
 ## CSS
 
 *   [CrowdStrike/foundry-sample-mitre](https://github.com/CrowdStrike/foundry-sample-mitre) - Triage with MITRE Attack sample Foundry app
-
-## YAML
-
-*   [usnistgov/macos\_security](https://github.com/usnistgov/macos_security) - macOS Security Compliance Project
