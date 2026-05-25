@@ -4,12 +4,13 @@
 
 ## Table of Contents
 
-*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
+*   [Mermaid](#mermaid)
+*   [PowerShell](#powershell)
+*   [miscellaneous](#miscellaneous)
 *   [Python](#python)
 *   [Rust](#rust)
 *   [HTML](#html)
-*   [PowerShell](#powershell)
 *   [Groovy](#groovy)
 *   [PHP](#php)
 *   [Go](#go)
@@ -22,22 +23,11 @@
 *   [C](#c-1)
 *   [C#](#c-2)
 
-## miscellaneous
-
-*   [mrKindly/claude-certified-architect](https://github.com/mrKindly/claude-certified-architect) - Claude Certified Architect: Exam Prep & Practice Questions A comprehensive collection of practice questions and detailed answers designed for professionals preparing for the Claude Certified Architect certification. This repository covers core architectural patterns, Anthropic’s model capabilities, and implementation best practices.
-*   [matthiasnissen/arc42agentic](https://github.com/matthiasnissen/arc42agentic) - Repository zu agentischen Workflows von arc42 Architekturdokumentation, insbesondere Review
-*   [LLM-Coding/Spec-Driven](https://github.com/LLM-Coding/Spec-Driven) -
-*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
-*   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-*   [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
-*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
-*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
-*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
-
 ## TypeScript
 
+*   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 *   [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
-*   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+*   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 *   [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 *   [ruKurz/oi-architecture](https://github.com/ruKurz/oi-architecture) - A conceptual architecture for how organizations transform data into knowledge, decisions, and action.
@@ -55,7 +45,7 @@
 *   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 *   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - Open-source drag-and-drop rack layout designer
+*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - drag-and-drop rack layout designer
 *   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 *   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
@@ -67,12 +57,34 @@
 *   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 *   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
-*   [astuto/astuto](https://github.com/astuto/astuto) - A free, open source, self-hosted customer feedback tool 🦊
+
+## Mermaid
+
+*   [tractorjuice/wardley-maps-mermaid](https://github.com/tractorjuice/wardley-maps-mermaid) - Mirror of swardley/WARDLEY-MAP-REPOSITORY with each map rendered as Mermaid wardley-beta alongside the OWM source. 100% component/link retention, |Δε|=0.
+
+## PowerShell
+
+*   [jflieben/DriftMaester](https://github.com/jflieben/DriftMaester) - Plug and play Azure implementation of Maester including drift detection and regression alerting
+*   [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
+*   [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
+*   [fbprogmbh/Hardening-Audit-Tool-AuditTAP](https://github.com/fbprogmbh/Hardening-Audit-Tool-AuditTAP) - FBPro Audit Test Automation Package allows you to create compliance reports for your systems. The resulting HTML-reports provide a transparent overview of your devices' security configuration compared to international security standards and hardening guides.
+
+## miscellaneous
+
+*   [mrKindly/claude-certified-architect](https://github.com/mrKindly/claude-certified-architect) - Claude Certified Architect: Exam Prep & Practice Questions A comprehensive collection of practice questions and detailed answers designed for professionals preparing for the Claude Certified Architect certification. This repository covers core architectural patterns, Anthropic’s model capabilities, and implementation best practices.
+*   [matthiasnissen/arc42agentic](https://github.com/matthiasnissen/arc42agentic) - Repository zu agentischen Workflows von arc42 Architekturdokumentation, insbesondere Review
+*   [LLM-Coding/Spec-Driven](https://github.com/LLM-Coding/Spec-Driven) -
+*   [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
+*   [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+*   [potatoqualitee/eol-dr](https://github.com/potatoqualitee/eol-dr) - 🕊️ A crowd-sourced guide to help techs help their non-tech spouses / partners / parents / kids when we are at the end-of-life
+*   [Oil3/List-of-modern-Quick-Look-extensions](https://github.com/Oil3/List-of-modern-Quick-Look-extensions) - List of modern .appex-based Quick Look Previewer extensions compatible with macOS 15 Sequoia and beyond. No deprecated quicklook qlgenerators.
+*   [diegoulloao/neofusion.opencode](https://github.com/diegoulloao/neofusion.opencode) - neofusion theme for opencode blending lava red and ice blue colors 🤖🔥
+*   [nmeisenzahl/hijack-agentic-ai](https://github.com/nmeisenzahl/hijack-agentic-ai) - Showcasing how to hijack agentic AI using real‑world vulnerabilities
 
 ## Python
 
 *   [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-*   [viticci/frames-cli](https://github.com/viticci/frames-cli) - Frame screenshots taken on Apple devices with official product bezels.
+*   [viticci/frames-cli](https://github.com/viticci/frames-cli) - Frame screenshots and screen recordings taken on Apple devices with official product bezels.
 *   [owgit/shortcut-agent-skill](https://github.com/owgit/shortcut-agent-skill) - Generate Apple Shortcuts from natural language using Claude Code. Describe any automation and get a signed .shortcut file for iPhone, iPad & Mac. 427+ supported actions.
 *   [Keyvanhardani/german-ocr](https://github.com/Keyvanhardani/german-ocr) - German-OCR is specifically trained to extract text from German documents including invoices, receipts, forms, and other business documents.
 *   [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) - Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.
@@ -108,12 +120,6 @@
 *   [nibzard/awesome-agentic-patterns](https://github.com/nibzard/awesome-agentic-patterns) - A curated catalogue of awesome agentic AI patterns
 *   [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 
-## PowerShell
-
-*   [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
-*   [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
-*   [fbprogmbh/Hardening-Audit-Tool-AuditTAP](https://github.com/fbprogmbh/Hardening-Audit-Tool-AuditTAP) - FBPro Audit Test Automation Package allows you to create compliance reports for your systems. The resulting HTML-reports provide a transparent overview of your devices' security configuration compared to international security standards and hardening guides.
-
 ## Groovy
 
 *   [docToolchain/docToolchain](https://github.com/docToolchain/docToolchain) - a AsciiDoc Toolchain for technical Software Documentation, focused on Software Architecture Documentation
@@ -126,7 +132,6 @@
 ## Go
 
 *   [ugurkocde/IntuneQL](https://github.com/ugurkocde/IntuneQL) - Keyboard-driven terminal workspace for Intune administration. Query the Microsoft Graph API visually, browse 100+ built-in queries across 102 Intune resources, export as CSV/JSON/PowerShell/cURL, run remediation actions, and generate queries from natural language using local AI. Install from PowerShell Gallery with Install-Module IntuneQL.
-*   [kopexa-grc/kspec](https://github.com/kopexa-grc/kspec) - A modern, extensible framework for defining and enforcing security policies across your digital infrastructure.
 
 ## Jupyter Notebook
 
@@ -162,7 +167,6 @@
 *   [majiayu000/vibeguard](https://github.com/majiayu000/vibeguard) - Native rules, hooks, and guards that prevent Claude Code and Codex from hallucinating code, duplicating files, or shipping unverified changes.
 *   [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 *   [friedrith/productivity](https://github.com/friedrith/productivity) - Scripts and commands to improve productivity
-*   [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
 
 ## C
 
