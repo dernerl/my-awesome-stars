@@ -4,12 +4,12 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Mermaid](#mermaid)
 *   [PowerShell](#powershell)
 *   [miscellaneous](#miscellaneous)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [HTML](#html)
 *   [Groovy](#groovy)
 *   [PHP](#php)
@@ -23,11 +23,20 @@
 *   [C](#c-1)
 *   [C#](#c-2)
 
+## Rust
+
+*   [WeaveMindAI/weft](https://github.com/WeaveMindAI/weft) - A programming language for AI systems
+*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
+*   [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
+*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+*   [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
+*   [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
+
 ## TypeScript
 
 *   [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 *   [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
-*   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source  Claude Design alternative. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems 🖼 Generate web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Runs on Claude Code / Codex / Cursor / Gemini / OpenCode / Qwen / Copilot / Hermes / Kimi CLI.
+*   [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandboxed preview · HTML/PDF/PPTX/MP4 export 🤖 Claude Code / OpenClaw / Codex / Cursor / OpenCode / Qwen / Copilot / Hermes / Kimi & 17+ CLIs.
 *   [markdoc/markdoc](https://github.com/markdoc/markdoc) - A powerful, flexible, Markdown-based authoring framework.
 *   [OpenCoworkAI/open-codesign](https://github.com/OpenCoworkAI/open-codesign) - Open-source Claude Design alternative. One-click import your Claude Code / Codex API key. Prompt → prototype / slides / PDF. Multi-model (Claude, GPT, Gemini, Kimi, GLM, Ollama). BYOK, local-first, MIT.
 *   [ruKurz/oi-architecture](https://github.com/ruKurz/oi-architecture) - A conceptual architecture for how organizations transform data into knowledge, decisions, and action.
@@ -45,7 +54,7 @@
 *   [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 *   [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.
 *   [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
-*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - drag-and-drop rack layout designer
+*   [RackulaLives/Rackula](https://github.com/RackulaLives/Rackula) - rack layout designer
 *   [vercel/vercel](https://github.com/vercel/vercel) - Develop. Preview. Ship.
 *   [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 *   [anthropics/claude-code-action](https://github.com/anthropics/claude-code-action) -
@@ -56,7 +65,6 @@
 *   [alfredoperez/speckit-companion](https://github.com/alfredoperez/speckit-companion) - VS Code extension for spec-driven development — manage specs, workflows, and steering docs for AI CLI tools (Claude Code, Gemini CLI, Copilot CLI)
 *   [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 *   [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
-*   [buildermethods/design-os](https://github.com/buildermethods/design-os) - The missing design process between your product idea and your codebase.
 
 ## Mermaid
 
@@ -65,7 +73,6 @@
 ## PowerShell
 
 *   [jflieben/DriftMaester](https://github.com/jflieben/DriftMaester) - Plug and play Azure implementation of Maester including drift detection and regression alerting
-*   [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 *   [rbalsleyMSFT/FFU](https://github.com/rbalsleyMSFT/FFU) - Using Full Flash Update files to speed up Windows Deployment
 *   [fbprogmbh/Hardening-Audit-Tool-AuditTAP](https://github.com/fbprogmbh/Hardening-Audit-Tool-AuditTAP) - FBPro Audit Test Automation Package allows you to create compliance reports for your systems. The resulting HTML-reports provide a transparent overview of your devices' security configuration compared to international security standards and hardening guides.
 
@@ -89,6 +96,7 @@
 *   [Keyvanhardani/german-ocr](https://github.com/Keyvanhardani/german-ocr) - German-OCR is specifically trained to extract text from German documents including invoices, receipts, forms, and other business documents.
 *   [stackitcloud/rag-template](https://github.com/stackitcloud/rag-template) - Template for AI chatbots & document management using Retrieval-Augmented Generation with vector search and FastAPI.
 *   [cmb211087/azure-diagrams-skill](https://github.com/cmb211087/azure-diagrams-skill) - Generate professional technical diagrams with AI - Azure architecture (700+ icons), ERDs, business flowcharts, timelines, wireframes. For proposals, documentation & architecture reviews.
+*   [microsoft/azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
 *   [eyesecurity/skills](https://github.com/eyesecurity/skills) - EU compliance enforcement for AI agents. Org-profile-driven guardrails for NIS2, GDPR & ISO 27001 — blocks secrets, flags critical asset impact, enforces data residency, verifies suppliers, tracks incidents with automated deadlines.
 *   [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 *   [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
@@ -105,14 +113,6 @@
 *   [whiteducksoftware/flock](https://github.com/whiteducksoftware/flock) - 🐤🐧 A declarative and highly modular Blackboard Multi Agent System  🐓 🦆
 *   [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
 *   [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
-
-## Rust
-
-*   [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-*   [kanidm/kanidm](https://github.com/kanidm/kanidm) - Kanidm: A simple, secure, and fast identity management platform
-*   [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-*   [adamgell/cmtraceopen](https://github.com/adamgell/cmtraceopen) - An open-source log viewer inspired by Microsoft's CMTrace.exe.
-*   [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.
 
 ## HTML
 
